@@ -1,22 +1,22 @@
-- Initialize git (if not already)
+`Initialize git (if not already)`
 
 ```text
 git init
 ```
 
-- Check status (optional but good habit)
+`Check status (optional but good habit)`
 
 ```text
 git status
 ```
 
-- Add File to Git Hub
+`Add File to Git Hub`
 
 ```text
 git add .
 ```
 
-- Add specific file
+- `Add specific file`
 
 ```text
 git add README.md
