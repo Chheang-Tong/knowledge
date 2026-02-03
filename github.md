@@ -24,7 +24,8 @@ git add README.md
 
 - `Commit Project`
 
-```text git commit -m "Initial commit"
+```text git
+commit -m "Initial commit"
 
 ```
 
