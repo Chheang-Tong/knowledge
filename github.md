@@ -1,16 +1,16 @@
 Initialize git (if not already)
 - git init
-  Check status (optional but good habit)
+Check status (optional but good habit)
 - git status
-  Add File to Git Hub
+Add File to Git Hub
 - git add .
-  Add specific file
+Add specific file
 - git add README.md
-  Commit Project
+Commit Project
 - git commit -m "Initial commit"
-  Connect local project to GitHub
+Connect local project to GitHub
 - git remote add origin https://github.com/username/repo-name.git
-  Check remote
+Check remote
 - git remote -v
 
 * =================================================================
