@@ -12,9 +12,9 @@ Connect local project to GitHub
 - git remote add origin https://github.com/username/repo-name.git
 Check remote
 - git remote -v
--  =================================================================
++  =================================================================
 Push to GitHub
-- ==============
++ ==============
 If branch is main:
 - git branch -M main
 - git push -u origin main
