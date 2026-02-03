@@ -17,3 +17,17 @@ smoothly using try, except, else, and finally blocks.
 • Helps you debug and maintain code easily
 • Required for real-world applications
 ```
+
+- `>> Import Error:`
+```text
+An ImportError happens when Python cannot find
+or load a module, or when a requested item does
+not exist within that module.
+```
+- `Common Causes:`
+```
+• Module is not installed
+• Wrong module or package name
+• Trying to import something that doesn't exist
+• Incorrect project or file structure
+```
