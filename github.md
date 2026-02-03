@@ -13,9 +13,9 @@ Connect local project to GitHub
 Check remote
 - git remote -v
 +  =================================================================
-Push to GitHub
++ Push to GitHub
 + ==============
-If branch is main:
++ If branch is main:
 - git branch -M main
 - git push -u origin main
 If branch is master:
