@@ -19,15 +19,32 @@ smoothly using try, except, else, and finally blocks.
 ```
 
 - `>> Import Error:`
+
 ```text
 An ImportError happens when Python cannot find
 or load a module, or when a requested item does
 not exist within that module.
 ```
+
 - `Common Causes:`
+
 ```
 • Module is not installed
 • Wrong module or package name
 • Trying to import something that doesn't exist
 • Incorrect project or file structure
+```
+- `Example:`
+```
+from math import sqr ---ImportError: cannot
+                     ---import name 'sqr'
+result = sqr (9)
+print(result)
+```
+- `How to Fix:`
+```
+• Check module and function names carefully
+• Install missing modules using pip
+• Verify file and folder structure
+• Use the correct import statement
 ```
