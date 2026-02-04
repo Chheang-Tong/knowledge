@@ -1,4 +1,5 @@
 ![python](/image/Python.jpg)
+
 - `What is Error Handling in Python?`
 
 ```text
@@ -35,6 +36,7 @@ not exist within that module.
 • Trying to import something that doesn't exist
 • Incorrect project or file structure
 ```
+
 ![Example](/image/ImportErrorEx.png)
 
 - `How to Fix:`
@@ -45,3 +47,33 @@ not exist within that module.
 • Verify file and folder structure
 • Use the correct import statement
 ```
+
+- `>> Key Error:`
+
+```
+A KeyError occurs when you try to access a
+dictionary key that does not exist. It typically
+happens when you reference a missing key.
+```
+
+- `Common Causes`
+
+```
+• Accessing a missing key in a dictionary
+• Typo or wrong key name
+• Using the wrong letter case (keys are case-sensitive)
+• Assuming a key exists without checking
+```
+
+![Example](/image/KeyErrorEx.png)
+
+- `How to fix`
+
+```
+• Check if the key exists using 'in'
+• Use .get() to avoid errors
+• Verify key names and spelling
+• Handle missing keys with try-except
+```
+
+> > `>> Zero Division Error:`
