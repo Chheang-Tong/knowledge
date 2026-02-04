@@ -1,3 +1,4 @@
+- [](/image/Python.jpg)
 - `What is Error Handling in Python?`
 
 ```text
@@ -34,14 +35,18 @@ not exist within that module.
 • Trying to import something that doesn't exist
 • Incorrect project or file structure
 ```
+
 - `Example:`
+
 ```
 from math import sqr ---ImportError: cannot
                      ---import name 'sqr'
 result = sqr (9)
 print(result)
 ```
+
 - `How to Fix:`
+
 ```
 • Check module and function names carefully
 • Install missing modules using pip
