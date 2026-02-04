@@ -20,7 +20,7 @@ smoothly using try, except, else, and finally blocks.
 • Required for real-world applications
 ```
 
-- `>> Import Error:`
+>> `>> Import Error:`
 
 ```text
 An ImportError happens when Python cannot find
@@ -48,7 +48,7 @@ not exist within that module.
 • Use the correct import statement
 ```
 
-- `>> Key Error:`
+>> `>> Key Error:`
 
 ```
 A KeyError occurs when you try to access a
@@ -76,4 +76,4 @@ happens when you reference a missing key.
 • Handle missing keys with try-except
 ```
 
-> > `>> Zero Division Error:`
+>> `>> Zero Division Error:`
