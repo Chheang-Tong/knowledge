@@ -1,4 +1,4 @@
-- [](/image/Python.jpg)
+- [python](/image/Python.jpg)
 - `What is Error Handling in Python?`
 
 ```text
