@@ -35,15 +35,7 @@ not exist within that module.
 • Trying to import something that doesn't exist
 • Incorrect project or file structure
 ```
-
-- `Example:`
-
-```
-from math import sqr ---ImportError: cannot
-                     ---import name 'sqr'
-result = sqr (9)
-print(result)
-```
+![Example](/image/ImportErrorEx.png)
 
 - `How to Fix:`
 
